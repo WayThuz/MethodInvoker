@@ -1,0 +1,4 @@
+UnityEditorPath=C:\Program Files\Unity\Hub\Editor\2021.3.22f1\Editor\Unity.exe
+ExecuteClass=WayneWeiExampleSource.WayneWeiExampleSourceGenerated
+ExecuteMethod=OpenWebsite
+Params=https://blog.miniasp.com/post/2010/09/24/How-to-parse-text-from-file-or-command-using-Batch,https://www.google.com/imghp?hl=zh-TW&tab=ri
